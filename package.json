@@ -1,0 +1,23 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "start": "node ./server.js",
+    "dev": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denys-Fadieiev/Express-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denys-Fadieiev/Express-App/issues"
+  },
+  "homepage": "https://github.com/Denys-Fadieiev/Express-App#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
