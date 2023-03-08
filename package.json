@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Denys-Fadieiev/Express-App#readme",
   "devDependencies": {
     "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
